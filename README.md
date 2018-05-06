@@ -1,4 +1,5 @@
-# NgYoutubeFrame
+# Simple App to use YoutubeFrame 
+_playing youtube videos from url_
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
