@@ -1,0 +1,9 @@
+body { max-width: 960px; }
+.container {
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 10px; 
+    grid-template-areas: 'box-left box-right';
+}
+.box-left { grid-area: 'box-left' }
+.box-right { grid-area: 'box-right' }
